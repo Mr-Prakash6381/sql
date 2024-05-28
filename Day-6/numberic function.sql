@@ -1,0 +1,19 @@
+select 40-50
+select 10*2
+select 40/2
+ select abs(-100)
+ select cos(45)
+ select sin(5)
+ select tan(5)
+ select exp(34.5678)
+ select log(1)
+ select pi()
+ select sign(45)
+ select sqrt(100)
+ select rand()
+ select celling(23.6)
+ select floor(23.6)
+ select degrees(90)
+ select radians(5156)
+ select round(45.768)
+ select power(5,2)
