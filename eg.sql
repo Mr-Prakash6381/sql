@@ -18,4 +18,5 @@ select * from customer
 alter table customer add column mobil_number int
 select * from customer
 delete from customer where mobil_number=null
+select*from
 
